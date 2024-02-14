@@ -1,11 +1,23 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "title": "Complete project proposal",
+    "date_created": "2024-02-14",
+    "status": "To Do",
+    "priority": 2
+  },
+  {
+    "id": 2,
+    "title": "Research market trends",
+    "date_created": "2024-02-12",
+    "status": "In Progress",
+    "priority": 3
+  },
+  {
+    "id": 3,
+    "title": "Review client feedback",
+    "date_created": "2024-02-10",
+    "status": "Completed",
+    "priority": 1
   }
-}
+]
